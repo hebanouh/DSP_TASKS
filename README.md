@@ -11,8 +11,9 @@ It is designed as a learning and reference resource for DSP concepts and their a
 ## 📝 Tasks Overview
 
 ### 🔹 Task 1: Signal Representation
-- Generating continuous and discrete-time signals
-- Plotting and basic analysis
+ Signal Representation & Basic Operations
+**Goal:** Build a Python project with a **GUI** that supports basic signal operations.  
+All future tasks will be integrated into this project.
 
 ### 🔹 Task 2: Convolution (to be updated)
 - Details coming soon
