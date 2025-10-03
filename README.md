@@ -6,7 +6,12 @@ It is designed as a learning and reference resource for DSP concepts and their a
 ---
 
 ## 📌 Contents
-- Signal representation and operations on it
+- Signal representation and analysis
+- Convolution and correlation
+- Filtering (FIR, IIR)
+- Fourier Transform and frequency analysis
+- Sampling and quantization
+- MATLAB/Python implementations
 
 ## 📝 Tasks Overview
 
